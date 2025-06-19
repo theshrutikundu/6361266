@@ -1,0 +1,15 @@
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\bin\Debug\net9.0\Excercise_2.exe
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\bin\Debug\net9.0\Excercise_2.deps.json
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\bin\Debug\net9.0\Excercise_2.runtimeconfig.json
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\bin\Debug\net9.0\Excercise_2.dll
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\bin\Debug\net9.0\Excercise_2.pdb
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.sourcelink.json
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.dll
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\refint\Excercise_2.dll
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.pdb
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\Excercise_2.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\github\6361266\Week_1\Data_Structures\Excercise_2\obj\Debug\net9.0\ref\Excercise_2.dll
